@@ -1,10 +1,10 @@
 # libnostd
-## A Powerful C++ Library for High-Perfomance Computing
+## A Powerful C++ Library for High-Performance Computing
 <p>
-<img src="https://img.shields.io/github/languages/top/spogozhev/libnostd"> 
-<img src="https://img.shields.io/github/languages/count/spogozhev/libnostd">
-<img src="https://img.shields.io/github/license/spogozhev/libnostd">
-<img src="https://img.shields.io/github/last-commit/spogozhev/libnostd">
+<img src="https://img.shields.io/github/languages/top/maxxxonchikipiki/libnostd"> 
+<img src="https://img.shields.io/github/languages/count/maxxxonchikipiki/libnostd">
+<img src="https://img.shields.io/github/license/maxxxonchikipiki/libnostd">
+<img src="https://img.shields.io/github/last-commit/maxxxonchikipiki/libnostd">
 </p>
 
 >[!CAUTION]
@@ -12,6 +12,6 @@
 >
 
 ## Copyright
-libnostd is released used under the [MIT License](https://github.com/spogozhev/libnostd/blob/main/LICENSE).
+libnostd is released used under the [MIT License](https://github.com/maxxxonchikipiki/libnostd/blob/main/LICENSE).
 
-Copyright (c) 2026 Sergei Pogozhev. All right reserved.
+Copyright (c) 2026 maxxxonchikipiki. All right reserved.
